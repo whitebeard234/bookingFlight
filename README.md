@@ -18,6 +18,9 @@
       npx ng-openapi-gen <em>this will generate models,services</em>  
   </li>
   <li>
+    npm install -d ng-openapi-gen <em> -d eans add package for development</em>
+  </li>
+  <li>
       npx ng g s auth
   </li>
 </ul>
