@@ -1,8 +1,9 @@
 # bookingFlight
-A sample flight booking webApp based on 21 Day C# Web-Development with ASP.NET &amp; Angular
+## A sample flight booking webApp based on 21 Day C# Web-Development with ASP.NET &amp; Angular
 
+
+### Command Notes:
 <p>
-Command Notes:
 git checkout testBranch
 git checkout -b testBranch your-hashcode-commit
 
