@@ -3,17 +3,23 @@
 
 
 ### Command Notes:
-<p>
-git checkout testBranch
-git checkout -b testBranch your-hashcode-commit
+#### Git Commands:
+<ul>
+  <li>git checkout <em>testBranch</em></li>
+  <li>git checkout -b testBranch <em>your-hashcode-commit</em></li>
+</ul>
 
-npx ng g c register-passenger --module app 
-Detail: create new component
+#### Angular Commands:
+<ul>
+  <li>
+      npx ng g c <em>nameofComponent</em> --module app 
+  </li>
+  <li>
+      npx ng-openapi-gen <em>this will generate models,services</em>  
+  </li>
+  <li>
+      npx ng g s auth
+  </li>
+</ul>
 
-npx ng-openapi-gen 
-Detail: generates new models from api
-
-npx ng g s auth
-Detail: creates new service
-</p>
 
