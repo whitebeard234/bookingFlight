@@ -7,6 +7,7 @@
 <ul>
   <li>git checkout <em>testBranch</em></li>
   <li>git checkout -b testBranch <em>your-hashcode-commit</em></li>
+  <li>git reset --hard <em>commit-hash</em></li>
 </ul>
 
 #### Angular Commands:
